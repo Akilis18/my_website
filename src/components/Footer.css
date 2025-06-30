@@ -1,0 +1,16 @@
+/* Footer.css */
+
+.footer {
+  background-color: #ffffff;
+  border-top: 1px solid var(--border-color);
+  padding: 12px 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-text {
+  color: var(--text-color);
+  font-size: 0.9rem;
+  font-weight: 400;
+}
